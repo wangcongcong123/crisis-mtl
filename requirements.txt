@@ -1,0 +1,6 @@
+transformers
+tweet-preprocessor
+scikit-learn
+torch
+tqdm
+numpy
