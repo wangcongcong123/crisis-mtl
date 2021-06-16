@@ -3,3 +3,4 @@ venv/
 data/*
 !data/README.md
 !data/data.zip
+*.zip
