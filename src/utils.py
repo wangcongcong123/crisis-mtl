@@ -124,7 +124,8 @@ class MyDataset(Dataset):
 
 
 priority2numeric = {"Critical": 1.0, "High": 0.75, "Medium": 0.5, "Low": 0.25}
-
+# this is strict as specified by the guidelines:
+# the classes_categories.txt in data/ should also follow this order strictly
 its_list = ['CallToAction-Donations',
             'CallToAction-MovePeople',
             'CallToAction-Volunteer',

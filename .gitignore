@@ -2,3 +2,4 @@ venv/
 .idea
 data/*
 !data/README.md
+!data/data.zip
