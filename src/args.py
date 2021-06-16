@@ -28,3 +28,4 @@ class Args:
     # the weight between categories loss and priority loss
     alpha: float = 0.5
     base_model_path_or_name: str = "bert-base-uncased"
+

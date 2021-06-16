@@ -5,6 +5,7 @@ import random
 from random import shuffle
 random.seed(1)
 
+
 #stop words list
 stop_words = ['i', 'me', 'my', 'myself', 'we', 'our', 
 			'ours', 'ourselves', 'you', 'your', 'yours', 

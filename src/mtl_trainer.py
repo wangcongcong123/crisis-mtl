@@ -14,6 +14,7 @@ from copy import deepcopy
 import math
 import preprocessor as pre
 
+
 pre.set_options(pre.OPT.URL, pre.OPT.EMOJI)
 device = "cuda:0" if torch.cuda.is_available() else "cpu"
 
