@@ -3,7 +3,7 @@
 *** update at: 2021/05/25
 
 This repo so far relates to the following work:
-- Transformer-based Multi-task Learning for Disaster Tweet Categorisation, ([WiP paper](paper/ISCRAM_crisis_mtl.pdf), ISCRAM 2021)
+- Transformer-based Multi-task Learning for Disaster Tweet Categorisation, ([paper](paper/ISCRAM_crisis_mtl.pdf), ISCRAM 2021)
 - Multi-task transfer learning for finding actionable information from crisis-related messages on social media, ([paper](https://trec.nist.gov/pubs/trec29/papers/UCD-CS.IS.pdf), TREC 2020)
 
 
