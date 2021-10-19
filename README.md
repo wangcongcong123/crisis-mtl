@@ -1,6 +1,7 @@
 ## Source code for "UCD participation in [TREC-IS](http://dcs.gla.ac.uk/~richardm/TREC_IS/) 2020A, 2020B and 2021A".
 
 *** update at: 2021/05/25
+See the [leaderboard](https://trecis.github.io/) to which our runs are submitted.
 
 This repo so far relates to the following work:
 - Transformer-based Multi-task Learning for Disaster Tweet Categorisation, ([paper](paper/ISCRAM_crisis_mtl.pdf), ISCRAM 2021)
