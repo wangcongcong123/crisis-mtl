@@ -1,6 +1,6 @@
 ## Source code for "UCD participation in [TREC-IS](http://dcs.gla.ac.uk/~richardm/TREC_IS/) 2020A, 2020B and 2021A".
 
-*** update at: 2021/05/25
+*** update at: 2021/10/19
 See the [leaderboard](https://trecis.github.io/) to which our runs are submitted.
 
 This repo so far relates to the following work:
